@@ -23,4 +23,4 @@ I run 20+ AI agents (Claude Code, Codex, Gemini) as dev teammates — not for ge
 
 ---
 
-[Blog](https://tedyway.github.io) · theway.tedy@gmail.com
+[Blog](https://tedyway.com) · theway.tedy@gmail.com
