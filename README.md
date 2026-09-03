@@ -2,7 +2,7 @@
 
 iOS engineer, 9 years. I ship products.
 
-From BLE smart car keys (vDSP signal processing, 3600x perf gain) to MAU 700K car maintenance O2O (TCA, Clean Architecture, Datadog). Side projects are how I think — each one solves a real problem I have.
+From BLE smart car keys (acoustic signal processing with Accelerate vDSP) to MAU 700K car maintenance O2O (TCA, Clean Architecture, Datadog). Side projects are how I think — each one solves a real problem I have.
 
 #### Projects
 
