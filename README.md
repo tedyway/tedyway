@@ -1,4 +1,3 @@
-### Myeongsu Seo
 
 iOS engineer, 9 years. I ship products.
 
